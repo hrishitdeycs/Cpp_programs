@@ -25,7 +25,5 @@ int main() {
 }
 
 ```
-![Screenshot (117)](https://github.com/user-attachments/assets/baed767e-0f1f-4e55-aee3-765227bb73c2)
-
 ![Screenshot (115)](https://github.com/user-attachments/assets/c7a9cfc0-0d2e-43d9-ac95-5ffba984d44c)
 ![Screenshot (116)](https://github.com/user-attachments/assets/8faa499b-c449-44d0-8cce-864c040f95ff)
