@@ -183,7 +183,8 @@ int main() {
 
 
 ```
-![Screenshot (71)](https://github.com/user-attachments/assets/b7947085-79da-4148-b4c2-d8fe377e0b4c)
-![Screenshot (72)](https://github.com/user-attachments/assets/bf8a2584-fc81-48ea-bbbf-ba74e6524410)
-![Screenshot (73)](https://github.com/user-attachments/assets/db6464b3-8f3e-4ab9-a90f-0d9fdbdab2c8)
-![Screenshot (74)](https://github.com/user-attachments/assets/e74624e8-1822-4cb4-97ae-6e4da209119b)
+![Screenshot (75)](https://github.com/user-attachments/assets/279f6cf3-d553-4e01-9e5e-c1a8dfa99aa6)
+![Screenshot (76)](https://github.com/user-attachments/assets/72c57816-1b6a-419c-81a8-10bdcd84d42c)
+![Screenshot (77)](https://github.com/user-attachments/assets/b8e6764a-b893-4abd-b3a1-6ed93458c7af)
+![Screenshot (78)](https://github.com/user-attachments/assets/621cbdff-1160-4ea5-8441-d0c9d1e818b9)
+![Screenshot (79)](https://github.com/user-attachments/assets/5f36c744-cdb9-412a-9a76-5ab2d7b830ed)
