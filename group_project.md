@@ -116,7 +116,7 @@ The primary objectives of this project are:
 6. **Enable User Interaction**: Provide a user interface (CLI) where users can allocate, deallocate, and view the status of the memory slabs in real-time.
 
 ---
-## Why We Chose This Project
+## Why We Chose This Project?
 
 As students, we chose to implement a **Slab Allocator Simulation** for several key reasons:
 
