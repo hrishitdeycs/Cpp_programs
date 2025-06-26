@@ -1,4 +1,4 @@
-```bash
+
 #include <iostream>
 #include <cmath>
 #include <stdexcept> // For exception handling
@@ -88,4 +88,4 @@ int main() {
     return 0;
 }
 
-```
+
