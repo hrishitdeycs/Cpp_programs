@@ -1,4 +1,4 @@
-```bash
+
 #include <iostream>
 #include <string>
 using namespace std;
@@ -63,4 +63,4 @@ int main() {
     delete p2;
     return 0;
 }
-```
+
