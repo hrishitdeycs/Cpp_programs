@@ -1,4 +1,4 @@
-```bash
+
 #include <iostream>
 #include <stdexcept> // For exception handling
 using namespace std;
@@ -23,4 +23,4 @@ int main() {
     return 0;
 }
 
-```
+
