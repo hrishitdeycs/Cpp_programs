@@ -1,4 +1,4 @@
-```bash
+
 #include <iostream>
 #include <fstream>
 #include <cctype>  // For checking whitespace
@@ -36,4 +36,4 @@ int main() {
     return 0;
 }
 
-```
+
