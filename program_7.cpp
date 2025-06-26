@@ -1,4 +1,4 @@
- ```bash
+ 
 #include <iostream>
 using namespace std;
 // Recursive function to calculate GCD using Euclidean algorithm
@@ -41,4 +41,4 @@ int main() {
     return 0;
 }
 
-```
+
