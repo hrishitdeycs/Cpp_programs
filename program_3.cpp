@@ -1,4 +1,4 @@
-```bash
+
 #include <iostream>
 #include <cctype>  // For character functions like tolower
 #include <string>
@@ -44,4 +44,4 @@ int main(int argc, char* argv[]) {
     return 0;
 }
 
-```
+
