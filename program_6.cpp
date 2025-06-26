@@ -1,4 +1,4 @@
-```bash
+
 #include <iostream>
 using namespace std;
 // Function for binary search with recursion
@@ -95,4 +95,4 @@ int main() {
     return 0;
 }
 
-```
+
