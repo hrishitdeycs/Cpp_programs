@@ -1,4 +1,4 @@
-```bash
+
 #include <iostream>
 using namespace std;
 // Function to merge two sorted arrays into a single sorted array
@@ -55,4 +55,4 @@ int main() {
     printArray(merged, n1 + n2);
     return 0;
 }
-```
+
